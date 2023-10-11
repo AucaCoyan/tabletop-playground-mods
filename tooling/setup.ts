@@ -2,6 +2,7 @@ import * as fs from "npm:fs-extra";
 import * as chalk from "npm:colorette";
 // @deno-types="npm:@types/node"
 import readline from "node:readline";
+import { ensureDir } from "https://deno.land/std@0.203.0/fs/ensure_dir.ts";
 
 console.log(chalk.yellow("Good Morning, Captain"));
 console.log(chalk.green("Welcome to the TTPG dev environment setup"));
@@ -25,10 +26,7 @@ const projectConfig = JSON.parse(
   ),
 ) as projectConfig;
 
-console.log(projectConfig);
-
 const theVariant: string = Deno.args[0] ?? projectConfig.defaultVariant;
-console.log(theVariant);
 if (!(theVariant in projectConfig.variants)) {
   console.error(`No such variant '${theVariant}' found`);
   Deno.exit(1);
@@ -47,7 +45,11 @@ function getSuggestedFolder(): string {
   throw new Error("could not get the suggested TabletopPlayground folder!");
 }
 
-function setupWorkspace(localConfig: unknown) {
+interface localConfig {
+  ttpg_folder: string;
+}
+
+function setupWorkspace(localConfig: localConfig) {
   console.log("setting up workspace...");
   const manifest = {
     Name: `${variantConfig.name} (Dev)`,
@@ -58,7 +60,7 @@ function setupWorkspace(localConfig: unknown) {
   console.log("building 'dev' folder");
   return fs
     .pathExists(`./dev/${variantConfig.slug}_dev`)
-    .then((alreadyInPlace) => {
+    .then((alreadyInPlace: any) => {
       if (alreadyInPlace) {
         return Promise.reject(
           `path './dev/${variantConfig.slug}_dev' already exists. It looks like you've already been set up`,
@@ -72,9 +74,9 @@ function setupWorkspace(localConfig: unknown) {
                 `./dev/${variantConfig.slug}_dev/Manifest.json`,
               )
               .then(() => {
-                fs.writeJson(
+                Deno.writeTextFile(
                   `./dev/${variantConfig.slug}_dev/Manifest.json`,
-                  manifest,
+                  JSON.stringify(manifest),
                 ).then(() => {
                   return fs
                     .ensureDir(
@@ -101,7 +103,7 @@ function setupWorkspace(localConfig: unknown) {
                 return fs.createSymlinkSync(
                   `./assets/${from}`,
                   `./dev/${variantConfig.slug}_dev/${to}`,
-                  "junction",
+                  "dir",
                 );
               }),
             );
@@ -112,7 +114,7 @@ function setupWorkspace(localConfig: unknown) {
               .createSymlink(
                 `./dev/${variantConfig.slug}_dev`,
                 `${localConfig.ttpg_folder}/${variantConfig.slug}_dev`,
-                "junction",
+                "dir",
               )
               .then(() => {
                 console.log(
@@ -136,8 +138,8 @@ const directoriesToMake = [
 }, []);
 
 Promise.all(
-  directoriesToMake.map((path) => {
-    return fs.ensureDir(path, 0o2775);
+  directoriesToMake.map((path: string) => {
+    return ensureDir(path);
   }),
 ).then(() => {
   return fs
@@ -145,12 +147,11 @@ Promise.all(
     .then((doesExist: any) => {
       if (doesExist) {
         console.log("Local config found, using that");
-        const config = JSON.parse(
+        const config: localConfig = JSON.parse(
           Deno.readTextFileSync(
             "./config/local.json",
           ),
         );
-        console.log(config);
         return setupWorkspace(config);
       } else {
         console.log("no local config found");
@@ -175,7 +176,7 @@ Promise.all(
                 .pathExists(ttpg_folder)
                 .then((doesTtpgFolderExist: boolean) => {
                   if (doesTtpgFolderExist) {
-                    const config = {
+                    const config: localConfig = {
                       ttpg_folder,
                     };
                     return resolve(config);
@@ -188,7 +189,7 @@ Promise.all(
             },
           );
         })
-          .then((config) => {
+          .then((config: localConfig) => {
             input.close();
             return setupWorkspace(config).then(() => {
               return fs

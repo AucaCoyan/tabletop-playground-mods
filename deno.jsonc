@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "setup": "deno run --allow-read --allow-write tooling/setup.ts",
+    "dev": "deno run --watch main.ts"
+  }
+}
