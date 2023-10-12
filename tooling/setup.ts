@@ -3,22 +3,10 @@ import * as chalk from "npm:colorette";
 // @deno-types="npm:@types/node"
 import readline from "node:readline";
 import { ensureDir } from "https://deno.land/std@0.203.0/fs/ensure_dir.ts";
+import { projectConfig } from "./projectConfig.ts";
 
 console.log(chalk.yellow("Good Morning, Captain"));
 console.log(chalk.green("Welcome to the TTPG dev environment setup"));
-
-interface projectConfig {
-  defaultVariant: string;
-  assets: Array<Record<string, string>>;
-  variants: Record<string, Variant>;
-}
-
-interface Variant {
-  name: string;
-  version: string;
-  guid: { dev: string; prd: string };
-  slug: string;
-}
 
 const projectConfig = JSON.parse(
   await Deno.readTextFile(
