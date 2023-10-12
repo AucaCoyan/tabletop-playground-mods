@@ -1,0 +1,70 @@
+{
+    "Type": "Generic",
+    "GUID": "AC1AF36B53224ED987637AA23B142736",
+    "Name": "AC1AF36B",
+    "CollisionType": "Regular",
+    "Friction": 0.7,
+    "Restitution": 0.3,
+    "Density": 1,
+    "SurfaceType": "Plastic",
+    "Roughness": 0.8,
+    "Metallic": 0,
+    "PrimaryColor": {
+        "R": 243,
+        "G": 99,
+        "B": 28
+    },
+    "SecondaryColor": {
+        "R": 0,
+        "G": 0,
+        "B": 0
+    },
+    "Flippable": false,
+    "Blueprint": "",
+    "Models": [
+        {
+            "Model": "256FB1C84CF9D9FB49AABAE1C493D931A4A60416.obj",
+            "Offset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+            },
+            "Scale": {
+                "X": 2.54,
+                "Y": 2.54,
+                "Z": 2.54
+            },
+            "Rotation": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+            },
+            "Texture": "",
+            "IsTransparent": false,
+            "UseOverrides": true,
+            "SurfaceType": "Plastic"
+        }
+    ],
+    "Collision": [
+        {
+            "Model": "256FB1C84CF9D9FB49AABAE1C493D931A4A60416.obj",
+            "Offset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+            },
+            "Scale": {
+                "X": 2.54,
+                "Y": 2.54,
+                "Z": 2.54
+            },
+            "Rotation": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+            },
+            "Type": "Convex"
+        }
+    ],
+    "SnapPoints": []
+}
