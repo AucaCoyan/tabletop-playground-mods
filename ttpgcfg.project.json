@@ -1,10 +1,11 @@
 {
-  "name": "Between Two Cities",
-  "slug": "between-two-cities",
-  "version": "0.1.0",
-  "transpile": true,
-  "guid": {
-    "dev": "007622B91E004FAEB90B009D7AC716D0",
-    "prd": "D39AB74F0EA64F51B62506CCEE3E4EC6"
-  }
+    "name": "Between Two Cities",
+    "slug": "between-two-cities",
+    "version": "0.1.0",
+    "transpile": true,
+    "guid": {
+        "dev": "007622B91E004FAEB90B009D7AC716D0",
+        "prd": "D39AB74F0EA64F51B62506CCEE3E4EC6"
+    },
+    "modId": 3432757
 }
