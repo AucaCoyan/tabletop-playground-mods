@@ -1,401 +1,519 @@
 {
-    "GUID": "8A9269DC250D4507B9FE4B5A9C3BE02F",
-    "Type": "Generic",
-    "Name": "8A9269DC",
-    "CollisionType": "Ground",
-    "Friction": 0.7,
-    "Restitution": 0.3,
-    "Density": 1,
-    "SurfaceType": "Wood",
-    "Roughness": 0.6,
-    "Metallic": 0.3,
-    "PrimaryColor": {
-        "R": 255,
-        "G": 255,
-        "B": 255
-    },
-    "SecondaryColor": {
-        "R": 0,
-        "G": 0,
-        "B": 0
-    },
-    "Models": [
-        {
-            "Model": "StaticMesh'/Game/Meshes/Generic/BoardSurface.BoardSurface'",
-            "Texture": "6F1E035FA9EEFA79B940FE5E0407D5B18A97CE03.png",
-            "Offset": {
-                "X": 0,
-                "Y": 0,
-                "Z": 0
-            },
-            "Scale": {
-                "X": 0.71200080634,
-                "Y": 0.71200080634,
-                "Z": 0.800000906
-            },
-            "Rotation": {
-                "X": 0,
-                "Y": 0,
-                "Z": 0
-            },
-            "UseOverrides": true
-        },
-        {
-            "Model": "StaticMesh'/Game/Meshes/Generic/BoardBody.BoardBody'",
-            "Offset": {
-                "X": 0,
-                "Y": 0,
-                "Z": 0
-            },
-            "Scale": {
-                "X": 0.71200080634,
-                "Y": 0.71200080634,
-                "Z": 0.800000906
-            },
-            "Rotation": {
-                "X": 0,
-                "Y": 0,
-                "Z": 0
-            },
-            "Texture": "Texture2D'/Game/Textures/Boards/BoardWood_Diffuse.BoardWood_Diffuse'",
-            "NormalMap": "Texture2D'/Game/Textures/Boards/BoardWood_Normal.BoardWood_Normal'",
-            "ExtraMap": "Texture2D'/Game/Textures/Boards/BoardWood_Extra.BoardWood_Extra'",
-            "UseOverrides": false,
-            "Roughness": 0.8,
-            "Metallic": 0,
-            "PrimaryColor": {
-                "R": 255,
-                "G": 255,
-                "B": 255
-            },
-            "SecondaryColor": {
-                "R": 0,
-                "G": 0,
-                "B": 0
-            }
-        }
-    ],
-    "Collision": [],
-    "SnapPoints": [
-        {
-            "X": 10.738171638885607,
-            "Y": -10.750681351507241,
-            "Z": 0.4737926605695804,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": 5.88129842071794e-06
-        },
-        {
-            "X": 10.738167030673988,
-            "Y": -3.5861854059115728,
-            "Z": 0.4737939477710381,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.1593000000000302
-        },
-        {
-            "X": 10.738168664181838,
-            "Y": 3.578314150596186,
-            "Z": 0.47379409097120034,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.008057000000007974
-        },
-        {
-            "X": 10.73816991940366,
-            "Y": 10.742814240143348,
-            "Z": 0.4737939477710381,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": 0.009458862000002455
-        },
-        {
-            "X": 3.573670259726985,
-            "Y": 10.742815959625295,
-            "Z": 0.4737949013721181,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.033875000000080036
-        },
-        {
-            "X": 3.5736686090243155,
-            "Y": 3.578316695429468,
-            "Z": 0.473796808574278,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.033875000000080036
-        },
-        {
-            "X": 3.5736669755164656,
-            "Y": -3.586183755208903,
-            "Z": 0.47379653657397,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.03308100000003833
-        },
-        {
-            "X": 3.5736653248137964,
-            "Y": -10.750682589534243,
-            "Z": 0.4737948061720103,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.03308100000003833
-        },
-        {
-            "X": -3.5908343004732397,
-            "Y": -10.750681351507241,
-            "Z": 0.4737955213728203,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.03308100000003833
-        },
-        {
-            "X": -3.5908322542897224,
-            "Y": -3.586182121701053,
-            "Z": 0.4737970165745136,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.033875000000080036
-        },
-        {
-            "X": -3.5908310334575395,
-            "Y": 3.57831758956008,
-            "Z": 0.4737949013721181,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.03308100000003833
-        },
-        {
-            "X": -3.5908293827548703,
-            "Y": 10.742817679107242,
-            "Z": 0.4737950165722486,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.03308100000003833
-        },
-        {
-            "X": -10.755328629755878,
-            "Y": 10.742819398589189,
-            "Z": 0.47379573657306395,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.03308100000003833
-        },
-        {
-            "X": -10.755330349237825,
-            "Y": 3.5783187416129847,
-            "Z": 0.4737958549731981,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.03308100000003833
-        },
-        {
-            "X": -10.755332068719772,
-            "Y": -3.5861800755175355,
-            "Z": 0.4737959501733059,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.03308100000003833
-        },
-        {
-            "X": -10.75533378820172,
-            "Y": -10.750679717999391,
-            "Z": 0.47379445657161434,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.033875000000080036
-        },
-        {
-            "X": 10.738166480439766,
-            "Y": -7.1684352271525,
-            "Z": 0.4737955213728203,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.014556999999967957
-        },
-        {
-            "X": 10.738169489533174,
-            "Y": 7.160564195369767,
-            "Z": 0.4737923269692026,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": 0.02320120670000847
-        },
-        {
-            "X": 10.738168199921713,
-            "Y": -0.003935572238790112,
-            "Z": 0.4737942165713426,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.014556999999967957
-        },
-        {
-            "X": 3.5736661501651317,
-            "Y": -7.168433576449831,
-            "Z": 0.47379325657025534,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.014556999999967957
-        },
-        {
-            "X": 3.573667800867801,
-            "Y": -0.003933973258137669,
-            "Z": 0.4737947765719767,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.014556999999967957
-        },
-        {
-            "X": 3.5736694343756508,
-            "Y": 7.160565914851714,
-            "Z": 0.47379504457228033,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.014556999999967957
-        },
-        {
-            "X": -3.590833079641057,
-            "Y": -7.1684319429419805,
-            "Z": 0.4737941861713081,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.014556999999967957
-        },
-        {
-            "X": -3.59083197917261,
-            "Y": -0.003932373864809558,
-            "Z": 0.4737954965727922,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.014556999999967957
-        },
-        {
-            "X": -3.5908302596906636,
-            "Y": 7.160567634333661,
-            "Z": 0.47379557657288274,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.014556999999967957
-        },
-        {
-            "X": -10.755332722122912,
-            "Y": -7.1684303094341315,
-            "Z": 0.4737949013721181,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.014556999999967957
-        },
-        {
-            "X": -10.755331088615064,
-            "Y": -0.003930775279637962,
-            "Z": 0.4737963765737888,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.014556999999967957
-        },
-        {
-            "X": -10.755329437912392,
-            "Y": 7.1605693538156086,
-            "Z": 0.47379629657369815,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -0.014556999999967957
-        },
-        {
-            "X": 7.155915146054724,
-            "Y": -10.750683810366425,
-            "Z": 0.47379461657179556,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -89.96816999999999
-        },
-        {
-            "X": 7.155916435666184,
-            "Y": -3.5861845805602375,
-            "Z": 0.4737943293714703,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -89.96816999999999
-        },
-        {
-            "X": 7.155918155148132,
-            "Y": 3.578315061921618,
-            "Z": 0.47379461657179556,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -89.96816999999999
-        },
-        {
-            "X": 7.15591987463008,
-            "Y": 10.742815117079141,
-            "Z": 0.473794136571252,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -89.96816999999999
-        },
-        {
-            "X": -0.008584405294587984,
-            "Y": -10.750682176858577,
-            "Z": 0.47379657017400806,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -89.96816999999999
-        },
-        {
-            "X": -0.008582806176376986,
-            "Y": -3.5861829470523876,
-            "Z": 0.47379504457228033,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -89.96816999999999
-        },
-        {
-            "X": -0.00858120666268514,
-            "Y": 3.578316695429468,
-            "Z": 0.47379493657215793,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -89.96816999999999
-        },
-        {
-            "X": -0.008579607939954987,
-            "Y": 10.74281675058699,
-            "Z": 0.4737952829725503,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -89.96816999999999
-        },
-        {
-            "X": -7.17308374342814,
-            "Y": -10.750680870052296,
-            "Z": 0.47379653657397,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -89.96816999999999
-        },
-        {
-            "X": -7.173082488206318,
-            "Y": -3.5861812963497184,
-            "Z": 0.4737954165727016,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -89.96816999999999
-        },
-        {
-            "X": -7.173080854698467,
-            "Y": 3.57831793345647,
-            "Z": 0.4737955213728203,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -89.96816999999999
-        },
-        {
-            "X": -7.1730792039957985,
-            "Y": 10.742818384094841,
-            "Z": 0.4737944245715781,
-            "Range": 5,
-            "SnapRotation": true,
-            "RotationOffset": -89.96816999999999
-        }
-    ]
+	"Type": "Generic",
+	"GUID": "8A9269DC250D4507B9FE4B5A9C3BE02F",
+	"Name": "8A9269DC",
+	"Metadata": "",
+	"CollisionType": "Ground",
+	"Friction": 0.7,
+	"Restitution": 0.3,
+	"Density": 1,
+	"SurfaceType": "Wood",
+	"Roughness": 0.6,
+	"Metallic": 0.3,
+	"PrimaryColor":
+	{
+		"R": 255,
+		"G": 255,
+		"B": 255
+	},
+	"SecondaryColor":
+	{
+		"R": 0,
+		"G": 0,
+		"B": 0
+	},
+	"Flippable": false,
+	"AutoStraighten": false,
+	"ShouldSnap": false,
+	"ScriptName": "",
+	"Blueprint": "",
+	"Models": [
+		{
+			"Model": "StaticMesh'/Game/Meshes/Generic/BoardSurface.BoardSurface'",
+			"Offset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"Scale":
+			{
+				"X": 0.712001,
+				"Y": 0.712001,
+				"Z": 0.800001
+			},
+			"Rotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"Texture": "6F1E035FA9EEFA79B940FE5E0407D5B18A97CE03.png",
+			"NormalMap": "",
+			"ExtraMap": "",
+			"ExtraMap2": "",
+			"IsTransparent": false,
+			"CastShadow": true,
+			"IsTwoSided": false,
+			"UseOverrides": true,
+			"SurfaceType": "Plastic"
+		},
+		{
+			"Model": "StaticMesh'/Game/Meshes/Generic/BoardBody.BoardBody'",
+			"Offset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"Scale":
+			{
+				"X": 0.712001,
+				"Y": 0.712001,
+				"Z": 0.800001
+			},
+			"Rotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"Texture": "Texture2D'/Game/Textures/Boards/BoardWood_Diffuse.BoardWood_Diffuse'",
+			"NormalMap": "Texture2D'/Game/Textures/Boards/BoardWood_Normal.BoardWood_Normal'",
+			"ExtraMap": "Texture2D'/Game/Textures/Boards/BoardWood_Extra.BoardWood_Extra'",
+			"ExtraMap2": "",
+			"IsTransparent": false,
+			"CastShadow": true,
+			"IsTwoSided": false,
+			"UseOverrides": false,
+			"Roughness": 0.8,
+			"Metallic": 0,
+			"PrimaryColor":
+			{
+				"R": 255,
+				"G": 255,
+				"B": 255
+			},
+			"SecondaryColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0
+			},
+			"SurfaceType": "Plastic"
+		}
+	],
+	"Collision": [],
+	"Lights": [],
+	"SnapPointsGlobal": false,
+	"SnapPoints": [
+		{
+			"X": 10.7382,
+			"Y": -10.7507,
+			"Z": 0.473793,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 5.8813e-06,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 10.7382,
+			"Y": -3.58619,
+			"Z": 0.473794,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.1593,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 10.7382,
+			"Y": 3.57831,
+			"Z": 0.473794,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.008057,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 10.7382,
+			"Y": 10.7428,
+			"Z": 0.473794,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0.00945886,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 3.57367,
+			"Y": 10.7428,
+			"Z": 0.473795,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.033875,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 3.57367,
+			"Y": 3.57832,
+			"Z": 0.473797,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.033875,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 3.57367,
+			"Y": -3.58618,
+			"Z": 0.473797,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.033081,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 3.57367,
+			"Y": -10.7507,
+			"Z": 0.473795,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.033081,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -3.59083,
+			"Y": -10.7507,
+			"Z": 0.473796,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.033081,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -3.59083,
+			"Y": -3.58618,
+			"Z": 0.473797,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.033875,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -3.59083,
+			"Y": 3.57832,
+			"Z": 0.473795,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.033081,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -3.59083,
+			"Y": 10.7428,
+			"Z": 0.473795,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.033081,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -10.7553,
+			"Y": 10.7428,
+			"Z": 0.473796,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.033081,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -10.7553,
+			"Y": 3.57832,
+			"Z": 0.473796,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.033081,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -10.7553,
+			"Y": -3.58618,
+			"Z": 0.473796,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.033081,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -10.7553,
+			"Y": -10.7507,
+			"Z": 0.473794,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.033875,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 10.7382,
+			"Y": -7.16844,
+			"Z": 0.473796,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.014557,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 10.7382,
+			"Y": 7.16056,
+			"Z": 0.473792,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0.0232012,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 10.7382,
+			"Y": -0.00393557,
+			"Z": 0.473794,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.014557,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 3.57367,
+			"Y": -7.16843,
+			"Z": 0.473793,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.014557,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 3.57367,
+			"Y": -0.00393397,
+			"Z": 0.473795,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.014557,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 3.57367,
+			"Y": 7.16057,
+			"Z": 0.473795,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.014557,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -3.59083,
+			"Y": -7.16843,
+			"Z": 0.473794,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.014557,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -3.59083,
+			"Y": -0.00393237,
+			"Z": 0.473796,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.014557,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -3.59083,
+			"Y": 7.16057,
+			"Z": 0.473796,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.014557,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -10.7553,
+			"Y": -7.16843,
+			"Z": 0.473795,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.014557,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -10.7553,
+			"Y": -0.00393078,
+			"Z": 0.473796,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.014557,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -10.7553,
+			"Y": 7.16057,
+			"Z": 0.473796,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -0.014557,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 7.15592,
+			"Y": -10.7507,
+			"Z": 0.473795,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -89.9682,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 7.15592,
+			"Y": -3.58618,
+			"Z": 0.473794,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -89.9682,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 7.15592,
+			"Y": 3.57832,
+			"Z": 0.473795,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -89.9682,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 7.15592,
+			"Y": 10.7428,
+			"Z": 0.473794,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -89.9682,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -0.00858441,
+			"Y": -10.7507,
+			"Z": 0.473797,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -89.9682,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -0.00858281,
+			"Y": -3.58618,
+			"Z": 0.473795,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -89.9682,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -0.00858121,
+			"Y": 3.57832,
+			"Z": 0.473795,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -89.9682,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -0.00857961,
+			"Y": 10.7428,
+			"Z": 0.473795,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -89.9682,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -7.17308,
+			"Y": -10.7507,
+			"Z": 0.473797,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -89.9682,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -7.17308,
+			"Y": -3.58618,
+			"Z": 0.473795,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -89.9682,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -7.17308,
+			"Y": 3.57832,
+			"Z": 0.473796,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -89.9682,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -7.17308,
+			"Y": 10.7428,
+			"Z": 0.473794,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": -89.9682,
+			"Shape": 0,
+			"FlipValidity": 0
+		}
+	],
+	"ZoomViewDirection":
+	{
+		"X": 0,
+		"Y": 0,
+		"Z": 0
+	},
+	"GroundAccessibility": "Nothing",
+	"Tags": []
 }
