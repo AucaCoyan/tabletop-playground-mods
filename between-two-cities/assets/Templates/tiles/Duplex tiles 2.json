@@ -1,7 +1,7 @@
 {
 	"Type": "Card",
 	"GUID": "FAB86170641D470185798A2296750CFB",
-	"Name": "Duplex tiles 2",
+	"Name": "Duplex tiles",
 	"Metadata": "",
 	"CollisionType": "Regular",
 	"Friction": 0.7,

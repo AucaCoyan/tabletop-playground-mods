@@ -9,8 +9,8 @@
 		{
 		},
 		"slotTeams": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-		"globalScriptPackage": "00000000000000000000000000000000",
-		"globalScriptName": "",
+		"globalScriptPackage": "007622B91E004FAEB90B009D7AC716D0",
+		"globalScriptName": "main.js",
 		"backgroundTexture":
 		{
 			"resourceName": "",
@@ -997,7 +997,7 @@
 				{
 					"x": 0,
 					"y": -0,
-					"z": 0.25881946086883545,
+					"z": 0.25881949067115784,
 					"w": 0.96592569351196289
 				},
 				"translation":
@@ -1065,8 +1065,8 @@
 			{
 				"rotation":
 				{
-					"x": -8.277474989881739e-07,
-					"y": 5.621149767875977e-09,
+					"x": -8.2774744214475504e-07,
+					"y": 5.6211493237867671e-09,
 					"z": -0.0067907422780990601,
 					"w": 0.99997693300247192
 				},
@@ -1347,7 +1347,7 @@
 				{
 					"x": 5.3263244126355858e-07,
 					"y": -1.7881332325941912e-07,
-					"z": 1.115548116104037e-06,
+					"z": 1.1155480024171993e-06,
 					"w": 1
 				},
 				"translation":
@@ -1417,7 +1417,7 @@
 				{
 					"x": 5.3263306654116604e-07,
 					"y": -5.959689985957084e-08,
-					"z": 1.4536007256538142e-05,
+					"z": 1.453600634704344e-05,
 					"w": 1
 				},
 				"translation":
@@ -1485,9 +1485,9 @@
 			{
 				"rotation":
 				{
-					"x": -2.0103122722048283e-07,
-					"y": -3.1879460551421934e-13,
-					"z": 1.5857964399401681e-06,
+					"x": -2.0103121300962812e-07,
+					"y": -3.1879455130411072e-13,
+					"z": 1.5857963262533303e-06,
 					"w": 1
 				},
 				"translation":
@@ -1778,7 +1778,7 @@
 				{
 					"x": 36.68359375,
 					"y": -39.950973510742188,
-					"z": 10.768736839294434
+					"z": 10.750964164733887
 				},
 				"scale3D":
 				{
@@ -1788,16 +1788,10 @@
 				}
 			},
 			"simulatingPhysics": true,
-			"atlasIndex": 8,
+			"atlasIndex": 5,
 			"frontTextureOverride": "",
 			"inHand": false,
 			"stackSerialization": [
-				{
-					"index": 7,
-					"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
-					"frontTextureOverride": "",
-					"flipped": false
-				},
 				{
 					"index": 6,
 					"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
@@ -1805,19 +1799,7 @@
 					"flipped": false
 				},
 				{
-					"index": 5,
-					"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
-					"frontTextureOverride": "",
-					"flipped": false
-				},
-				{
-					"index": 4,
-					"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
-					"frontTextureOverride": "",
-					"flipped": false
-				},
-				{
-					"index": 9,
+					"index": 8,
 					"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
 					"frontTextureOverride": "",
 					"flipped": false
@@ -1835,7 +1817,43 @@
 					"flipped": false
 				},
 				{
+					"index": 4,
+					"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 1,
+					"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 0,
+					"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
 					"index": 6,
+					"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 3,
+					"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 9,
+					"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 7,
 					"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
 					"frontTextureOverride": "",
 					"flipped": false
@@ -1848,30 +1866,6 @@
 				},
 				{
 					"index": 4,
-					"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
-					"frontTextureOverride": "",
-					"flipped": false
-				},
-				{
-					"index": 3,
-					"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
-					"frontTextureOverride": "",
-					"flipped": false
-				},
-				{
-					"index": 2,
-					"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
-					"frontTextureOverride": "",
-					"flipped": false
-				},
-				{
-					"index": 0,
-					"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
-					"frontTextureOverride": "",
-					"flipped": false
-				},
-				{
-					"index": 1,
 					"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
 					"frontTextureOverride": "",
 					"flipped": false
@@ -2002,7 +1996,7 @@
 			{
 				"rotation":
 				{
-					"x": -6.1429346942531993e-07,
+					"x": -6.1429341258190107e-07,
 					"y": -4.1196722122549545e-07,
 					"z": -0.0085960449650883675,
 					"w": 0.99996304512023926
@@ -3001,6 +2995,80 @@
 			"bCanBeDamaged": false
 		},
 		{
+			"objectType": "Card",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": -1.7585159639565973e-06,
+					"y": 2.9294767500687158e-06,
+					"z": 2.1284392914822092e-07,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 36.683589935302734,
+					"y": -39.950973510742188,
+					"z": 11.045395851135254
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": true,
+			"atlasIndex": 2,
+			"frontTextureOverride": "",
+			"inHand": false,
+			"stackSerialization": [],
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0,
+			"density": 0.5,
+			"surfaceType": "SurfaceType4",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Regular",
+			"templateId": "282DD3D70D8D4345819C43B0B72F3F6D",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "007622B91E004FAEB90B009D7AC716D0",
+			"objectScriptName": "seatings-deck.js",
+			"persistentData": "",
+			"persistentKeyData":
+			{
+			},
+			"uniqueId": "kgd",
+			"drawingLines": [],
+			"objectTags": [],
+			"objectGroupId": -1,
+			"ownerIndex": -1,
+			"lightsOn": true,
+			"bCanBeDamaged": false
+		},
+		{
 			"objectType": "CardHolder",
 			"transform":
 			{
@@ -3315,10 +3383,10 @@
 			{
 				"rotation":
 				{
-					"x": 0.57922780513763428,
-					"y": 0.40557989478111267,
-					"z": -0.57922780513763428,
-					"w": 0.40557986497879028
+					"x": -0.57922768592834473,
+					"y": -0.40557995438575745,
+					"z": 0.57922768592834473,
+					"w": -0.40557998418807983
 				},
 				"translation":
 				{
@@ -3395,10 +3463,10 @@
 			{
 				"rotation":
 				{
-					"x": -0.60926347970962524,
-					"y": 0.35888427495956421,
-					"z": 0.60926353931427002,
-					"w": 0.35888424515724182
+					"x": -0.60926342010498047,
+					"y": 0.35888436436653137,
+					"z": 0.60926347970962524,
+					"w": 0.35888433456420898
 				},
 				"translation":
 				{

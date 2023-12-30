@@ -1,7 +1,13 @@
-import { globalEvents, refCard, world } from "@tabletop-playground/api";
+import { refCard, Card } from "@tabletop-playground/api";
 
-globalEvents.onObjectCreated.add(function (obj) {
-  console.log("created an object ", obj.getId());
-  // refCard.shuffle();
-  world.broadcastChatMessage("Seatings deck shuffled!");
-});
+function main(obj: Card) {
+  obj.shuffle()
+  console.log("Seatings deck shuffled!");
+
+  let selection = obj.takeCards()?.getCardDetails(1);
+  console.log(selection);
+  console.log(obj.getStackSize());
+  
+};
+
+main(refCard);
