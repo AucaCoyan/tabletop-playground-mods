@@ -1,0 +1,65 @@
+{
+    "Type": "Multistate Object",
+    "GUID": "38EF2BE27FA446168C6DCE91883E6658",
+    "Name": "38EF2BE2",
+    "CollisionType": "Regular",
+    "Friction": 0.7,
+    "Restitution": 0.3,
+    "Density": 1,
+    "SurfaceType": "Cardboard",
+    "Roughness": 1,
+    "Metallic": 0,
+    "PrimaryColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+    },
+    "SecondaryColor": {
+        "R": 0,
+        "G": 0,
+        "B": 0
+    },
+    "Flippable": false,
+    "ScriptName": "",
+    "Blueprint": "",
+    "Models": [],
+    "Collision": [],
+    "SnapPoints": [],
+    "ZoomViewDirection": {
+        "X": 0,
+        "Y": 0,
+        "Z": 1
+    },
+    "MultistateModels": [
+        {
+            "Model": "Square",
+            "Offset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+            },
+            "Scale": {
+                "X": 22.0855355,
+                "Y": 33.149257268500946,
+                "Z": 1.0
+            },
+            "Rotation": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+            },
+            "Texture": "1E001CB4F19525523BA7BE1698F3242CAA37C41A.pdf",
+            "IsTransparent": false,
+            "UseOverrides": true,
+            "SurfaceType": "Cardboard",
+            "UseCardModel": true,
+            "Indices": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        }
+    ]
+}

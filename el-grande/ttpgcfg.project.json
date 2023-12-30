@@ -1,0 +1,10 @@
+{
+  "name": "El Grande",
+  "slug": "el-grande",
+  "version": "0.0.1",
+  "transpile": true,
+  "guid": {
+    "dev": "F4FD42D6D86F47CA932B76C0BF249066",
+    "prd": "099DB3100B9143CB86E2BBFD714F56FC"
+  }
+}
