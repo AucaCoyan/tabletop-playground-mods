@@ -1,0 +1,11 @@
+{
+    "name": "Black table",
+    "slug": "black-table",
+    "version": "0.0.1",
+    "transpile": true,
+    "guid": {
+        "dev": "3200E8DF273A425CA0C7D6FAA0E4B51C",
+        "prd": "954372E9963A423DAA8D8C9F9A4D2983"
+    },
+    "modId": 3599904
+}
