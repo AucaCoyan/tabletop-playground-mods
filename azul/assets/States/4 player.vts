@@ -1,0 +1,1506 @@
+{
+	"saveStateVersion": "1.0",
+	"gameState":
+	{
+		"measureUnit": 2.5399999618530273,
+		"notes": "You can enter notes for the game here. They will be visible to all players and are stored when the game is saved.\n\nYou can use [color=#ff0000]colors[/color], [b]bold[/b] or [i]italic[/i] text, [size=9]different[/size] [size=16]sizes[/size], and [color=#00ff00][size=8][b][i]combine text styles.[/color][/size][/b][/i]",
+		"currentTurn": 0,
+		"globalScriptPackage": "00000000000000000000000000000000",
+		"globalScriptName": "",
+		"permissions":
+		{
+			"delete": -1,
+			"objectLibrary": -1,
+			"copyPaste": -1,
+			"cardExplorer": -1,
+			"containerExplorer": -1,
+			"changeOwner": -1
+		},
+		"physicsLocked": false,
+		"measureAngles": false,
+		"alwaysSnap": false,
+		"liftOverRegular": true,
+		"playersIds": [
+			"76561198821462295:0",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		"bCanBeDamaged": false
+	},
+	"requiredPackages": [
+		{
+			"name": "Azul",
+			"guid": "A64306874B5CC86094D44F913A096338"
+		},
+		{
+			"name": "General",
+			"guid": "D74C7D5D6745CD565913DAA5FB3E9C93"
+		}
+	],
+	"storedCameraSetups": [ false, false, false, false, false, false, false, false, false, false ],
+	"objects": [
+		{
+			"objectType": "DynamicObject",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": 0.70708078145980835,
+					"y": 0.0060516633093357086,
+					"z": 0.70708084106445313,
+					"w": -0.0060516670346260071
+				},
+				"translation":
+				{
+					"x": -13.733946800231934,
+					"y": 45.013134002685547,
+					"z": 81.666213989257813
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": true,
+			"primaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 0.20000000298023224,
+			"friction": 0.69999998807907104,
+			"restitution": 0.30000001192092896,
+			"density": 1,
+			"surfaceType": "SurfaceType1",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Regular",
+			"templateId": "603102984971D3E249F503A547F5126E",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "ioo",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "DynamicObject",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": 3.5762894867730211e-07,
+					"y": 2.6631462901605119e-07,
+					"z": 1,
+					"w": 4.1723251342773438e-06
+				},
+				"translation":
+				{
+					"x": 13.221911430358887,
+					"y": -41.746726989746094,
+					"z": 81.666122436523438
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": true,
+			"primaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 0.20000000298023224,
+			"friction": 0.69999998807907104,
+			"restitution": 0.30000001192092896,
+			"density": 1,
+			"surfaceType": "SurfaceType1",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Regular",
+			"templateId": "603102984971D3E249F503A547F5126E",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "me5",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "DynamicObject",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": -4.7000867198221385e-06,
+					"y": -2.5039203137566801e-06,
+					"z": 0.0001118030195357278,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -13.20954418182373,
+					"y": -91.203948974609375,
+					"z": 81.666122436523438
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": true,
+			"primaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 0.20000000298023224,
+			"friction": 0.69999998807907104,
+			"restitution": 0.30000001192092896,
+			"density": 1,
+			"surfaceType": "SurfaceType1",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Regular",
+			"templateId": "603102984971D3E249F503A547F5126E",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "vx5",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "DynamicObject",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": -4.5064010123496701e-07,
+					"y": -2.9802620815644332e-07,
+					"z": 6.6938855525222607e-06,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 12.827644348144531,
+					"y": 95.085655212402344,
+					"z": 81.666122436523438
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": true,
+			"primaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 0.20000000298023224,
+			"friction": 0.69999998807907104,
+			"restitution": 0.30000001192092896,
+			"density": 1,
+			"surfaceType": "SurfaceType1",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Regular",
+			"templateId": "603102984971D3E249F503A547F5126E",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "ohp",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "DynamicObject",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": 1.1368683772161603e-11,
+					"y": 7.5325567649997538e-07,
+					"z": 0.70709609985351563,
+					"w": 0.70711743831634521
+				},
+				"translation":
+				{
+					"x": -11.385920524597168,
+					"y": 10.786163330078125,
+					"z": 80.9161376953125
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": true,
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0.30000001192092896,
+			"density": 1,
+			"surfaceType": "SurfaceType1",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Regular",
+			"templateId": "A96C3F844D39A49909FFDBA1413B4400",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "qbv",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "Bag",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": -4.4374488084031327e-07,
+					"y": -7.9936095720087308e-13,
+					"z": 1.8013976159636513e-06,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -46.320785522460938,
+					"y": 9.0240011215209961,
+					"z": 80.281051635742188
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": true,
+			"bagType": "Random",
+			"itemsJson": [
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"dmz\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"qnp\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"pga\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"y38\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"xi6\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"3l8\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"wd6\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"xbv\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"kl8\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"n2d\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"c23\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"n3s\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"576\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"clv\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"vfo\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"9jc\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"h55\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"34s\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"980\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"0ls\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"4cw\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"kv3\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"s4n\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"8wu\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"bjb\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"8ae\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"4nw\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"ew9\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"mqm\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"yj7\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"ukx\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"9po\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"3y9\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"frl\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"8hv\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"se5\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"sn0\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"rvy\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"hy0\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"2kw\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"x5a\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"tg4\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"e65\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"x6j\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"4p9\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"7l3\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"7jq\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"db7\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"2pv\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"cnh\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"apm\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"r84\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"b6z\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"ips\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"t5k\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"rju\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"ue0\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"cyn\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"2b3\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"y6p\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"m1k\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"gwe\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"7bn\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"khr\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"0pr\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"h0s\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"3tw\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"rht\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"t9b\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"ca9\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"vke\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"ghq\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"d2s\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"liz\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"1ci\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"m4j\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"aq4\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"qri\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"fpp\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"lyq\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"8c7\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"gsg\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"1md\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"mta\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"1ls\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"9vb\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"63s\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"1vf\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"a9d\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"kvi\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"wpq\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"bq0\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"k6x\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":97,\"r\":46,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"963B10B84CDCACD8BAE3AF9DB92F4CD9\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"j1x\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":44,\"g\":69,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"788919234FE8A110469C989B826C2C08\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"tsl\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"ylo\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"om0\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"5822478E426FC8A8AC0AAAA476ADCFA4\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"14u\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.69999998807907104,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A572BB2A4F051FCA2FB6B58D0D66F993\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"ncu\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}",
+				"{\"objectType\":\"DynamicObject\",\"transform\":{\"rotation\":{\"x\":0,\"y\":0,\"z\":0,\"w\":1},\"translation\":{\"x\":-46.499862670898438,\"y\":8.7331333160400391,\"z\":93.830680847167969},\"scale3D\":{\"x\":1,\"y\":1,\"z\":1}},\"simulatingPhysics\":false,\"primaryColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"secondaryColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"metallic\":0,\"roughness\":1,\"friction\":0.74000000953674316,\"restitution\":0.30000001192092896,\"density\":1,\"surfaceType\":\"SurfaceType1\",\"objectName\":\"\",\"objectDescription\":\"\",\"collisionType\":\"CB_Regular\",\"templateId\":\"A5F39B71468E0B14B449328A6F03A87A\",\"shouldSnap\":true,\"previousPosition\":{\"x\":0,\"y\":0,\"z\":0},\"objectScriptPackage\":\"00000000000000000000000000000000\",\"objectScriptName\":\"\",\"uniqueId\":\"on5\",\"objectGroupId\":-1,\"bCanBeDamaged\":false}"
+			],
+			"primaryColor":
+			{
+				"b": 211,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0.60000002384185791,
+			"roughness": 0.69999998807907104,
+			"friction": 0.69999998807907104,
+			"restitution": 0.30000001192092896,
+			"density": 1,
+			"surfaceType": "SurfaceType5",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Regular",
+			"templateId": "57EA380C409BE4BEFEED2E9876998E01",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "8u7",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "Card",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 5.5310378074645996,
+					"y": -5.0332441329956055,
+					"z": 80.516197204589844
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": false,
+			"atlasIndex": 0,
+			"inHand": false,
+			"stackSerialization": [],
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0,
+			"density": 0.5,
+			"surfaceType": "SurfaceType4",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Ground",
+			"templateId": "1030EDC841FAE10BC52DC28FA8DD1751",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "vfd",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "Card",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": 1.0132788474948029e-06,
+					"y": -0.99999988079071045,
+					"z": -3.5762778338721546e-07,
+					"w": 5.9605000046758505e-08
+				},
+				"translation":
+				{
+					"x": 34.931076049804688,
+					"y": -65.902755737304688,
+					"z": 80.666122436523438
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": false,
+			"atlasIndex": 0,
+			"inHand": false,
+			"stackSerialization": [],
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0,
+			"density": 0.5,
+			"surfaceType": "SurfaceType4",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Ground",
+			"templateId": "F52435724E31FE252F58218FCF2F108D",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "7uo",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "Card",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": 0.0015038937563076615,
+					"y": 0.0077686184085905552,
+					"z": -0.00018983309564646333,
+					"w": 0.99996870756149292
+				},
+				"translation":
+				{
+					"x": -6.8963980674743652,
+					"y": -12.801753997802734,
+					"z": 80.6171875
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": false,
+			"atlasIndex": 0,
+			"inHand": false,
+			"stackSerialization": [],
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0,
+			"density": 0.5,
+			"surfaceType": "SurfaceType4",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Ground",
+			"templateId": "1030EDC841FAE10BC52DC28FA8DD1751",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "5n8",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "Card",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": -1.7285345847994904e-06,
+					"y": -1,
+					"z": 3.5762792549576261e-07,
+					"w": 6.1817218011128716e-13
+				},
+				"translation":
+				{
+					"x": 34.233665466308594,
+					"y": 70.473861694335938,
+					"z": 80.666122436523438
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": false,
+			"atlasIndex": 0,
+			"inHand": false,
+			"stackSerialization": [],
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0,
+			"density": 0.5,
+			"surfaceType": "SurfaceType4",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Ground",
+			"templateId": "F52435724E31FE252F58218FCF2F108D",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "p03",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "Card",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": 8.4149682777479029e-09,
+					"y": -3.3378494208591292e-06,
+					"z": 0.002521066926419735,
+					"w": 0.9999968409538269
+				},
+				"translation":
+				{
+					"x": -28.451772689819336,
+					"y": 2.1438398361206055,
+					"z": 80.51611328125
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": false,
+			"atlasIndex": 0,
+			"inHand": false,
+			"stackSerialization": [],
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0,
+			"density": 0.5,
+			"surfaceType": "SurfaceType4",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Ground",
+			"templateId": "1030EDC841FAE10BC52DC28FA8DD1751",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "z52",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "Card",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": -0,
+					"y": 1.0652644277797663e-06,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 11.115713119506836,
+					"y": 8.5526714324951172,
+					"z": 80.516204833984375
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": false,
+			"atlasIndex": 0,
+			"inHand": false,
+			"stackSerialization": [],
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0,
+			"density": 0.5,
+			"surfaceType": "SurfaceType4",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Ground",
+			"templateId": "1030EDC841FAE10BC52DC28FA8DD1751",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "tz4",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "Card",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -20.286098480224609,
+					"y": 29.154251098632813,
+					"z": 80.516128540039063
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": false,
+			"atlasIndex": 0,
+			"inHand": false,
+			"stackSerialization": [],
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0,
+			"density": 0.5,
+			"surfaceType": "SurfaceType4",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Ground",
+			"templateId": "1030EDC841FAE10BC52DC28FA8DD1751",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "mux",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "Card",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": 0.99999994039535522,
+					"y": 5.2901697245033574e-07,
+					"z": -2.6631587957126612e-07,
+					"w": 3.576280107608909e-07
+				},
+				"translation":
+				{
+					"x": -34.295173645019531,
+					"y": -66.511856079101563,
+					"z": 80.6661376953125
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": false,
+			"atlasIndex": 0,
+			"inHand": false,
+			"stackSerialization": [],
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0,
+			"density": 0.5,
+			"surfaceType": "SurfaceType4",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Ground",
+			"templateId": "F52435724E31FE252F58218FCF2F108D",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "woa",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "Card",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -19.38824462890625,
+					"y": -10.458540916442871,
+					"z": 80.5162353515625
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": false,
+			"atlasIndex": 0,
+			"inHand": false,
+			"stackSerialization": [],
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0,
+			"density": 0.5,
+			"surfaceType": "SurfaceType4",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Ground",
+			"templateId": "1030EDC841FAE10BC52DC28FA8DD1751",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "o3s",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "Card",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": 0.99999994039535522,
+					"y": -0.00033768883440643549,
+					"z": 2.9772124321425508e-07,
+					"w": 8.9417022763882414e-07
+				},
+				"translation":
+				{
+					"x": -34.638618469238281,
+					"y": 69.628097534179688,
+					"z": 80.666152954101563
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": false,
+			"atlasIndex": 0,
+			"inHand": false,
+			"stackSerialization": [],
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0,
+			"density": 0.5,
+			"surfaceType": "SurfaceType4",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Ground",
+			"templateId": "F52435724E31FE252F58218FCF2F108D",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "dos",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "Card",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -29.675605773925781,
+					"y": 16.076820373535156,
+					"z": 80.516128540039063
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": false,
+			"atlasIndex": 0,
+			"inHand": false,
+			"stackSerialization": [],
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0,
+			"density": 0.5,
+			"surfaceType": "SurfaceType4",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Ground",
+			"templateId": "1030EDC841FAE10BC52DC28FA8DD1751",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "lsd",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "Card",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": -0.99999994039535522,
+					"y": -3.7523446394516213e-07,
+					"z": 1.3419430497374485e-13,
+					"w": 3.5762786865234375e-07
+				},
+				"translation":
+				{
+					"x": 39.698554992675781,
+					"y": 5.989997386932373,
+					"z": 80.480400085449219
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": true,
+			"atlasIndex": 0,
+			"inHand": false,
+			"stackSerialization": [
+				{
+					"index": 0,
+					"templateId": "7AA9379B4E249CBAC1E6A89CC6DEDCDC"
+				},
+				{
+					"index": 0,
+					"templateId": "E299D63640EED98854258081D4E9FC63"
+				}
+			],
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0,
+			"density": 0.5,
+			"surfaceType": "SurfaceType4",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Regular",
+			"templateId": "D37C5C8748AF49D7BB82EF9CFD817342",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "3yu",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "Card",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": -5.9098453521728516,
+					"y": 32.428916931152344,
+					"z": 80.516204833984375
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": false,
+			"atlasIndex": 0,
+			"inHand": false,
+			"stackSerialization": [],
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0,
+			"density": 0.5,
+			"surfaceType": "SurfaceType4",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Ground",
+			"templateId": "1030EDC841FAE10BC52DC28FA8DD1751",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "ay0",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "Card",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 6.7337856292724609,
+					"y": 23.698513031005859,
+					"z": 80.516204833984375
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": false,
+			"atlasIndex": 0,
+			"inHand": false,
+			"stackSerialization": [],
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0,
+			"density": 0.5,
+			"surfaceType": "SurfaceType4",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Ground",
+			"templateId": "1030EDC841FAE10BC52DC28FA8DD1751",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "gr1",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "Table",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": false,
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0.30000001192092896,
+			"density": 1,
+			"surfaceType": "SurfaceType1",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Static",
+			"templateId": "F27689B0431FFA778EC9D6835FA2B8FC",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"uniqueId": "",
+			"objectGroupId": -1,
+			"bCanBeDamaged": false
+		}
+	]
+}

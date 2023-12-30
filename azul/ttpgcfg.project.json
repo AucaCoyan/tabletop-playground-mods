@@ -1,0 +1,10 @@
+{
+  "name": "Azul",
+  "slug": "azul",
+  "version": "0.0.1",
+  "transpile": true,
+  "guid": {
+    "dev": "3F61F999D4C1430E81CAB65EEC059F02",
+    "prd": "99586187D4824AA5BF18A353ABFF0D36"
+  }
+}

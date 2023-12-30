@@ -1,0 +1,62 @@
+{
+	"Type": "Container",
+	"GUID": "57EA380C409BE4BEFEED2E9876998E01",
+	"Name": "Bag",
+	"CollisionType": "Regular",
+	"Friction": 0.7,
+	"Restitution": 0.3,
+	"Density": 1,
+	"SurfaceType": "Cloth",
+	"Roughness": 0.7,
+	"Metallic": 0.6,
+	"PrimaryColor":
+	{
+		"R": 255,
+		"G": 255,
+		"B": 211
+	},
+	"SecondaryColor":
+	{
+		"R": 0,
+		"G": 0,
+		"B": 0
+	},
+	"Flippable": false,
+	"ScriptName": "",
+	"Blueprint": "",
+	"Models": [
+		{
+			"Model": "Bag.fbx",
+			"Offset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"Scale":
+			{
+				"X": 5,
+				"Y": 5,
+				"Z": 5
+			},
+			"Rotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"Texture": "2-bag_D_gray.png",
+			"IsTransparent": false,
+			"UseOverrides": true,
+			"SurfaceType": "Plastic"
+		}
+	],
+	"Collision": [],
+	"SnapPoints": [],
+	"ZoomViewDirection":
+	{
+		"X": 0,
+		"Y": 0,
+		"Z": 0
+	}
+}
