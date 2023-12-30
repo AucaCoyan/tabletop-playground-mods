@@ -1,0 +1,10 @@
+{
+  "name": "Brass: Birmingham",
+  "slug": "brass-birmingham",
+  "version": "0.0.1",
+  "transpile": true,
+  "guid": {
+    "dev": "11AECC42B421417C8F9D5E18625EA8F4",
+    "prd": "7DA40B5A290844EA85D2638B98D8D6E2"
+  }
+}

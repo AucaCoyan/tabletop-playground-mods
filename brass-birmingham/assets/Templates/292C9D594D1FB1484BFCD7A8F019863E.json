@@ -1,0 +1,363 @@
+{
+	"Type": "Card",
+	"GUID": "292C9D594D1FB1484BFCD7A8F019863E",
+	"Name": "player_board",
+	"Metadata": "",
+	"CollisionType": "Ground",
+	"Friction": 0.7,
+	"Restitution": 0,
+	"Density": 0.5,
+	"SurfaceType": "Cardboard",
+	"Roughness": 1,
+	"Metallic": 0,
+	"PrimaryColor":
+	{
+		"R": 255,
+		"G": 255,
+		"B": 255
+	},
+	"SecondaryColor":
+	{
+		"R": 0,
+		"G": 0,
+		"B": 0
+	},
+	"Flippable": true,
+	"AutoStraighten": false,
+	"ShouldSnap": true,
+	"ScriptName": "",
+	"Blueprint": "",
+	"Models": [],
+	"Collision": [],
+	"Lights": [],
+	"SnapPointsGlobal": false,
+	"SnapPoints": [
+		{
+			"X": -4.46004,
+			"Y": -5.494,
+			"Z": 0.0750001,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -3.01,
+			"Y": -5.494,
+			"Z": 0.0750001,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -1.64,
+			"Y": -5.494,
+			"Z": 0.0750001,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -0.236789,
+			"Y": -5.494,
+			"Z": 0.0749995,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 1.67544,
+			"Y": -5.553,
+			"Z": 0.0750008,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 3.02933,
+			"Y": -5.553,
+			"Z": 0.0750001,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 4.46087,
+			"Y": -5.553,
+			"Z": 0.0750001,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 4.456,
+			"Y": -3.33119,
+			"Z": 0.0750001,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 4.456,
+			"Y": -1.10211,
+			"Z": 0.0750001,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 4.456,
+			"Y": 1.11469,
+			"Z": 0.0750001,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 4.456,
+			"Y": 3.34818,
+			"Z": 0.0750008,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 4.456,
+			"Y": 5.56466,
+			"Z": 0.0750001,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -2.20455,
+			"Y": -2.586,
+			"Z": 0.0750001,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -0.776243,
+			"Y": -2.586,
+			"Z": 0.0750001,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 0.610871,
+			"Y": -2.586,
+			"Z": 0.0750008,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 2.03388,
+			"Y": -2.586,
+			"Z": 0.0749995,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -2.20824,
+			"Y": 0.285288,
+			"Z": 0.0749998,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -0.838521,
+			"Y": 0.299,
+			"Z": 0.0749995,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 0.598483,
+			"Y": 0.299214,
+			"Z": 0.0749995,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 2.017,
+			"Y": 0.299,
+			"Z": 0.0750008,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 2.017,
+			"Y": 2.47958,
+			"Z": 0.0749995,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -4.53333,
+			"Y": -1.94167,
+			"Z": 0.075,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -4.53333,
+			"Y": 0.308333,
+			"Z": 0.075,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -4.53333,
+			"Y": 2.55833,
+			"Z": 0.075,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -4.53333,
+			"Y": 4.80833,
+			"Z": 0.075,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -2.183,
+			"Y": 3.18232,
+			"Z": 0.0749995,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -2.183,
+			"Y": 5.4,
+			"Z": 0.075,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": -0.783333,
+			"Y": 5.4,
+			"Z": 0.075,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		},
+		{
+			"X": 0.616667,
+			"Y": 5.4,
+			"Z": 0.075,
+			"Range": 5,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0
+		}
+	],
+	"ZoomViewDirection":
+	{
+		"X": 0,
+		"Y": 0,
+		"Z": 0
+	},
+	"GroundAccessibility": "Nothing",
+	"Tags": [],
+	"FrontTexture": "player_board.jpg",
+	"BackTexture": "",
+	"HiddenTexture": "",
+	"BackIndex": 0,
+	"HiddenIndex": -1,
+	"NumHorizontal": 1,
+	"NumVertical": 1,
+	"Width": 14.09,
+	"Height": 11.4,
+	"Thickness": 0.15,
+	"HiddenInHand": true,
+	"UsedWithCardHolders": true,
+	"CanStack": true,
+	"UsePrimaryColorForSide": false,
+	"FrontTextureOverrideExposed": false,
+	"AllowFlippedInStack": false,
+	"MirrorBack": true,
+	"EmissiveFront": false,
+	"Model": "Rounded",
+	"Indices": [ 0 ],
+	"CardNames":
+	{
+	},
+	"CardMetadata":
+	{
+	},
+	"CardTags":
+	{
+	}
+}

@@ -1,0 +1,74 @@
+{
+	"Type": "Generic",
+	"GUID": "DF8BA3BB466FFA9A1AB98BBDEE02DE50",
+	"Name": "Barrel",
+	"Metadata": "",
+	"CollisionType": "Regular",
+	"Friction": 0.7,
+	"Restitution": 0.3,
+	"Density": 0.99,
+	"SurfaceType": "Plastic",
+	"Roughness": 1,
+	"Metallic": 0.3,
+	"PrimaryColor":
+	{
+		"R": 110,
+		"G": 64,
+		"B": 44
+	},
+	"SecondaryColor":
+	{
+		"R": 0,
+		"G": 0,
+		"B": 0
+	},
+	"Flippable": false,
+	"AutoStraighten": false,
+	"ShouldSnap": true,
+	"ScriptName": "",
+	"Blueprint": "",
+	"Models": [
+		{
+			"Model": "Barrel.obj",
+			"Offset":
+			{
+				"X": 0,
+				"Y": 0.9,
+				"Z": 0
+			},
+			"Scale":
+			{
+				"X": 0.019,
+				"Y": 0.019,
+				"Z": 0.019
+			},
+			"Rotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"Texture": "",
+			"NormalMap": "",
+			"ExtraMap": "",
+			"ExtraMap2": "",
+			"IsTransparent": false,
+			"CastShadow": true,
+			"IsTwoSided": false,
+			"UseOverrides": true,
+			"SurfaceType": "Plastic"
+		}
+	],
+	"Collision": [],
+	"Lights": [],
+	"SnapPointsGlobal": false,
+	"SnapPoints": [],
+	"ZoomViewDirection":
+	{
+		"X": 0,
+		"Y": 0,
+		"Z": 0
+	},
+	"GroundAccessibility": "Nothing",
+	"Tags": []
+}

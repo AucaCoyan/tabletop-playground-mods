@@ -1,0 +1,72 @@
+{
+	"Type": "Card",
+	"GUID": "F34351A441AEBBB4D89AEFABA234CD34",
+	"Name": "Cards",
+	"Metadata": "",
+	"CollisionType": "Regular",
+	"Friction": 0.7,
+	"Restitution": 0,
+	"Density": 0.5,
+	"SurfaceType": "Cardboard",
+	"Roughness": 1,
+	"Metallic": 0,
+	"PrimaryColor":
+	{
+		"R": 255,
+		"G": 255,
+		"B": 255
+	},
+	"SecondaryColor":
+	{
+		"R": 0,
+		"G": 0,
+		"B": 0
+	},
+	"Flippable": true,
+	"AutoStraighten": false,
+	"ShouldSnap": true,
+	"ScriptName": "",
+	"Blueprint": "",
+	"Models": [],
+	"Collision": [],
+	"Lights": [],
+	"SnapPointsGlobal": false,
+	"SnapPoints": [],
+	"ZoomViewDirection":
+	{
+		"X": 0,
+		"Y": 0,
+		"Z": 0
+	},
+	"GroundAccessibility": "Nothing",
+	"Tags": [],
+	"FrontTexture": "cardfronts.jpg",
+	"BackTexture": "cardback.jpg",
+	"HiddenTexture": "",
+	"BackIndex": -2,
+	"HiddenIndex": -1,
+	"NumHorizontal": 7,
+	"NumVertical": 5,
+	"Width": 9.5,
+	"Height": 14.5,
+	"Thickness": 0.05,
+	"HiddenInHand": true,
+	"UsedWithCardHolders": true,
+	"CanStack": true,
+	"UsePrimaryColorForSide": false,
+	"FrontTextureOverrideExposed": false,
+	"AllowFlippedInStack": false,
+	"MirrorBack": true,
+	"EmissiveFront": false,
+	"Model": "StaticMesh'/Game/Meshes/Cards/SquareRounded.SquareRounded'",
+	"Indices": [ 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 4, 4, 4, 20, 20, 20, 20, 20, 20, 5, 5, 6, 6, 6, 7, 7, 8, 9, 9, 10, 10, 11, 11, 11, 11, 12, 12, 12, 12, 12, 13, 13, 14, 14, 15, 16, 16, 16, 17, 17, 17, 18, 18, 18, 19, 19, 23, 23, 24, 24, 24, 25, 25, 27, 27, 28, 28, 31, 32, 26, 26 ],
+	"CardNames":
+	{
+	},
+	"CardMetadata":
+	{
+	},
+	"CardTags":
+	{
+	}
+}

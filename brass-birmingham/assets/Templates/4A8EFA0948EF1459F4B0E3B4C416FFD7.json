@@ -1,0 +1,147 @@
+{
+	"Type": "Dice",
+	"GUID": "4A8EFA0948EF1459F4B0E3B4C416FFD7",
+	"Name": "Pound-15",
+	"Metadata": "",
+	"CollisionType": "Regular",
+	"Friction": 0.7,
+	"Restitution": 0,
+	"Density": 1,
+	"SurfaceType": "Metal",
+	"Roughness": 1,
+	"Metallic": 0,
+	"PrimaryColor":
+	{
+		"R": 255,
+		"G": 255,
+		"B": 255
+	},
+	"SecondaryColor":
+	{
+		"R": 0,
+		"G": 0,
+		"B": 0
+	},
+	"Flippable": false,
+	"AutoStraighten": false,
+	"ShouldSnap": true,
+	"ScriptName": "",
+	"Blueprint": "",
+	"Models": [
+		{
+			"Model": "@ThatRobHuman/currency/coins/circle_msh.obj",
+			"Offset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"Scale":
+			{
+				"X": 2.99,
+				"Y": 2.99,
+				"Z": 2.99
+			},
+			"Rotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"Texture": "@ThatRobHuman/currency/coins/credits_c.png",
+			"NormalMap": "@ThatRobHuman/currency/coins/credits_n.png",
+			"ExtraMap": "@ThatRobHuman/currency/coins/credits_x.tga",
+			"ExtraMap2": "",
+			"IsTransparent": true,
+			"Alpha": 1,
+			"CastShadow": true,
+			"IsTwoSided": false,
+			"UseOverrides": false,
+			"Roughness": 1,
+			"Metallic": 1,
+			"PrimaryColor":
+			{
+				"R": 255,
+				"G": 227,
+				"B": 150
+			},
+			"SecondaryColor":
+			{
+				"R": 255,
+				"G": 243,
+				"B": 189
+			},
+			"SurfaceType": "Metal"
+		}
+	],
+	"Collision": [
+		{
+			"Model": "@ThatRobHuman/currency/coins/circle_col.obj",
+			"Offset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"Scale":
+			{
+				"X": 3,
+				"Y": 3,
+				"Z": 3
+			},
+			"Rotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"Type": "Convex"
+		}
+	],
+	"Lights": [],
+	"SnapPointsGlobal": false,
+	"SnapPoints": [
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0,
+			"Range": 1.24986,
+			"SnapRotation": 2,
+			"RotationOffset": 0,
+			"Shape": 0,
+			"FlipValidity": 0,
+			"Tags": [
+				"@trh_coin-circle-*"
+			]
+		}
+	],
+	"ZoomViewDirection":
+	{
+		"X": 0,
+		"Y": 0,
+		"Z": 0
+	},
+	"GroundAccessibility": "Nothing",
+	"Tags": [
+		"@trh_coin-*-*",
+		"@trh_coin-circle-*",
+		"@trh_coin-circle-gold",
+		"@trh_coin-*-gold"
+	],
+	"Faces": [
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": -1,
+			"Name": "15",
+			"Metadata": ""
+		},
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 1,
+			"Name": "15",
+			"Metadata": ""
+		}
+	]
+}
