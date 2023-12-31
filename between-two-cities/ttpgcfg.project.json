@@ -1,7 +1,7 @@
 {
     "name": "Between Two Cities",
     "slug": "between-two-cities",
-    "version": "0.1.0",
+    "version": "1.0.2",
     "transpile": true,
     "guid": {
         "dev": "007622B91E004FAEB90B009D7AC716D0",
