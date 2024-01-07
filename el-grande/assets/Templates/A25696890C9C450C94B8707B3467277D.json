@@ -1,56 +1,72 @@
 {
-    "Type": "Card",
-    "GUID": "A25696890C9C450C94B8707B3467277D",
-    "Name": "A2569689",
-    "CollisionType": "Regular",
-    "Friction": 0.7,
-    "Restitution": 0,
-    "Density": 0.5,
-    "SurfaceType": "Cardboard",
-    "Roughness": 1,
-    "Metallic": 0,
-    "PrimaryColor": {
-        "R": 255,
-        "G": 255,
-        "B": 255
-    },
-    "SecondaryColor": {
-        "R": 0,
-        "G": 0,
-        "B": 0
-    },
-    "Flippable": true,
-    "Blueprint": "",
-    "Models": [],
-    "Collision": [],
-    "SnapPoints": [],
-    "FrontTexture": "1PhgE0a.jpg",
-    "BackTexture": "lLw7Icg.jpg",
-    "BackIndex": -2,
-    "NumHorizontal": 10,
-    "NumVertical": 7,
-    "Width": 5.099242424242425,
-    "Height": 7.62,
-    "Thickness": 0.05,
-    "HiddenInHand": true,
-    "CanStack": true,
-    "UsedWithCardHolders": true,
-    "Model": "StaticMesh'/Game/Meshes/Cards/SquareRounded.SquareRounded'",
-    "Indices": [
-        25,
-        24,
-        23,
-        22,
-        21,
-        20,
-        19,
-        18,
-        17,
-        16,
-        15,
-        14,
-        13
-    ],
-    "ConvexCollision": true,
-    "ShapeAccuracy": 10
+	"Type": "Card",
+	"GUID": "A25696890C9C450C94B8707B3467277D",
+	"Name": "Power Cards yellow",
+	"Metadata": "",
+	"CollisionType": "Regular",
+	"Friction": 0.7,
+	"Restitution": 0,
+	"Density": 0.5,
+	"SurfaceType": "Cardboard",
+	"Roughness": 1,
+	"Metallic": 0,
+	"PrimaryColor":
+	{
+		"R": 255,
+		"G": 255,
+		"B": 255
+	},
+	"SecondaryColor":
+	{
+		"R": 0,
+		"G": 0,
+		"B": 0
+	},
+	"Flippable": true,
+	"AutoStraighten": false,
+	"ShouldSnap": true,
+	"ScriptName": "",
+	"Blueprint": "",
+	"Models": [],
+	"Collision": [],
+	"Lights": [],
+	"SnapPointsGlobal": false,
+	"SnapPoints": [],
+	"ZoomViewDirection":
+	{
+		"X": 0,
+		"Y": 0,
+		"Z": 0
+	},
+	"GroundAccessibility": "Nothing",
+	"Tags": [],
+	"FrontTexture": "1PhgE0a.jpg",
+	"BackTexture": "lLw7Icg.jpg",
+	"HiddenTexture": "",
+	"BackIndex": -2,
+	"HiddenIndex": -1,
+	"NumHorizontal": 10,
+	"NumVertical": 7,
+	"Width": 5.09924,
+	"Height": 7.62,
+	"Thickness": 0.05,
+	"HiddenInHand": true,
+	"UsedWithCardHolders": true,
+	"CanStack": true,
+	"UsePrimaryColorForSide": false,
+	"FrontTextureOverrideExposed": false,
+	"AllowFlippedInStack": false,
+	"MirrorBack": true,
+	"EmissiveFront": false,
+	"Model": "StaticMesh'/Game/Meshes/Cards/SquareRounded.SquareRounded'",
+	"Indices": [ 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13 ],
+	"CardNames":
+	{
+	},
+	"CardMetadata":
+	{
+	},
+	"CardTags":
+	{
+	}
 }

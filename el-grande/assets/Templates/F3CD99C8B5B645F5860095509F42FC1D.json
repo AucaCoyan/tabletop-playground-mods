@@ -1,44 +1,72 @@
 {
-    "Type": "Card",
-    "GUID": "F3CD99C8B5B645F5860095509F42FC1D",
-    "Name": "F3CD99C8",
-    "CollisionType": "Regular",
-    "Friction": 0.7,
-    "Restitution": 0,
-    "Density": 0.5,
-    "SurfaceType": "Cardboard",
-    "Roughness": 1,
-    "Metallic": 0,
-    "PrimaryColor": {
-        "R": 255,
-        "G": 255,
-        "B": 255
-    },
-    "SecondaryColor": {
-        "R": 0,
-        "G": 0,
-        "B": 0
-    },
-    "Flippable": true,
-    "Blueprint": "",
-    "Models": [],
-    "Collision": [],
-    "SnapPoints": [],
-    "FrontTexture": "K2h6HFE.jpg",
-    "BackTexture": "0WctTxv.jpg",
-    "BackIndex": -2,
-    "NumHorizontal": 10,
-    "NumVertical": 7,
-    "Width": 7.619999999999999,
-    "Height": 7.62,
-    "Thickness": 0.05,
-    "HiddenInHand": true,
-    "CanStack": true,
-    "UsedWithCardHolders": true,
-    "Model": "StaticMesh'/Game/Meshes/Cards/SquareRounded.SquareRounded'",
-    "Indices": [
-        0
-    ],
-    "ConvexCollision": true,
-    "ShapeAccuracy": 10
+	"Type": "Card",
+	"GUID": "F3CD99C8B5B645F5860095509F42FC1D",
+	"Name": "King's card",
+	"Metadata": "",
+	"CollisionType": "Regular",
+	"Friction": 0.7,
+	"Restitution": 0,
+	"Density": 0.5,
+	"SurfaceType": "Cardboard",
+	"Roughness": 1,
+	"Metallic": 0,
+	"PrimaryColor":
+	{
+		"R": 255,
+		"G": 255,
+		"B": 255
+	},
+	"SecondaryColor":
+	{
+		"R": 0,
+		"G": 0,
+		"B": 0
+	},
+	"Flippable": true,
+	"AutoStraighten": false,
+	"ShouldSnap": true,
+	"ScriptName": "",
+	"Blueprint": "",
+	"Models": [],
+	"Collision": [],
+	"Lights": [],
+	"SnapPointsGlobal": false,
+	"SnapPoints": [],
+	"ZoomViewDirection":
+	{
+		"X": 0,
+		"Y": 0,
+		"Z": 0
+	},
+	"GroundAccessibility": "Nothing",
+	"Tags": [],
+	"FrontTexture": "K2h6HFE.jpg",
+	"BackTexture": "0WctTxv.jpg",
+	"HiddenTexture": "",
+	"BackIndex": -2,
+	"HiddenIndex": -1,
+	"NumHorizontal": 10,
+	"NumVertical": 7,
+	"Width": 7.62,
+	"Height": 7.62,
+	"Thickness": 0.05,
+	"HiddenInHand": true,
+	"UsedWithCardHolders": true,
+	"CanStack": true,
+	"UsePrimaryColorForSide": false,
+	"FrontTextureOverrideExposed": false,
+	"AllowFlippedInStack": false,
+	"MirrorBack": true,
+	"EmissiveFront": false,
+	"Model": "StaticMesh'/Game/Meshes/Cards/SquareRounded.SquareRounded'",
+	"Indices": [ 0 ],
+	"CardNames":
+	{
+	},
+	"CardMetadata":
+	{
+	},
+	"CardTags":
+	{
+	}
 }
