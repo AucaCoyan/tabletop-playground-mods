@@ -3,7 +3,9 @@ import {Card, refCard} from '@tabletop-playground/api';
 function main(obj:Card) {
     // sleep 1s    
     setTimeout(() => {
-        obj.flipOrUpright()
+        if (!obj.isFaceUp()) {
+            obj.flipOrUpright()
+        }
     }, 1000);
 }
 

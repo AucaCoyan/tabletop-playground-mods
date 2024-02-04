@@ -1,7 +1,7 @@
 {
 	"Type": "Card",
 	"GUID": "C60811C11BA94F74AF5B38977C35A99A",
-	"Name": "Province deck",
+	"Name": "Regions deck",
 	"Metadata": "",
 	"CollisionType": "Regular",
 	"Friction": 0.7,
@@ -59,9 +59,18 @@
 	"MirrorBack": true,
 	"EmissiveFront": false,
 	"Model": "StaticMesh'/Game/Meshes/Cards/SquareRounded.SquareRounded'",
-	"Indices": [ 40, 37, 38, 41, 26, 39, 36, 43, 42 ],
+	"Indices": [ 40, 37, 38, 41, 26, 39, 36, 43, 44 ],
 	"CardNames":
 	{
+		"40": "Galicia",
+		"37": "Catalonia",
+		"38": "Old Castille",
+		"41": "Seville",
+		"26": "Granada",
+		"39": "New Castille",
+		"36": "Basque Country",
+		"43": "Aragon",
+		"42": "Valencia"
 	},
 	"CardMetadata":
 	{
