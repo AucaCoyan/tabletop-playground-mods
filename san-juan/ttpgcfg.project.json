@@ -1,0 +1,10 @@
+{
+  "name": "San Juan",
+  "slug": "san-juan",
+  "version": "0.0.1",
+  "transpile": true,
+  "guid": {
+    "dev": "02C2EC94679740119E362AB2753C4113",
+    "prd": "B23992E7C2ED4DB790AF2E82417B50D6"
+  }
+}
